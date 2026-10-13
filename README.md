@@ -1,6 +1,6 @@
 # Daniel Gamino
 
-**Dirección técnica en [LDA Homes](https://ldahomes.com) · Software, integraciones e IA aplicada**
+**Dirección técnica en [LDA Homes](https://github.com/ldahomes) · Software, integraciones e IA aplicada**
 
 Trabajo con empresas para convertir necesidades de negocio en aplicaciones e integraciones que puedan usar, mantener y evolucionar. Combino dirección técnica, desarrollo asistido por IA y revisión humana, con atención a la seguridad y la continuidad del servicio.
 
@@ -16,4 +16,4 @@ Primero entender el negocio y revisar lo que existe; después, acordar prioridad
 
 Mi trabajo para clientes se desarrolla en repositorios privados. Las referencias y demostraciones se comparten de forma individual, respetando la confidencialidad de cada proyecto.
 
-**Más información:** [ldahomes.com](https://ldahomes.com)
+**Más información:** [ldahomes.com](https://ldahomes.com) · [LDA Homes en GitHub](https://github.com/ldahomes)
